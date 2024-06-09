@@ -1,34 +1,42 @@
 {
     "0d70310b22266a9f07ffeec5dde9005dc49d4b118ab626db7d22de6deb4b8a15": {
-        "seq": 1687909495314,
-        "record": "enr:-J64QC1zrThNDenPVYuga7O0yzhpeNKfRIaMuiyfUhvz92MlXScjFeXyAnxOwhoYbnSM36KbghapY-UJ5XgvTtwu7l2GAYj_PvIShGN0eGPHxoR1STAggIJpZIJ2NIJpcIQ2-kMUiXNlY3AyNTZrMaED2P6EeWi2jABOn1RyjoZv1LAWNzimk1154Fb7lrAX3YeDdGNwgp3Ug3VkcIKd1A",
-        "score": 8,
+        "seq": 1687909495316,
+        "record": "enr:-J64QPO7Mpu9K6Z0OpkjGroLUDLZyrEKznY3n_4DYXxtS2EFToB6p51woTiL_z1wRJb7-G_vUm4w_ELhorzzFnqfvPaGAYj_PvIUhGN0eGPHxoR1STAggIJpZIJ2NIJpcIQ2-kMUiXNlY3AyNTZrMaED2P6EeWi2jABOn1RyjoZv1LAWNzimk1154Fb7lrAX3YeDdGNwgp3Ug3VkcIKd1A",
+        "score": 6,
         "firstResponse": "2024-05-24T22:26:02Z",
-        "lastResponse": "2024-06-08T22:45:11Z",
-        "lastCheck": "2024-06-08T22:45:11Z"
+        "lastResponse": "2024-06-09T22:45:09Z",
+        "lastCheck": "2024-06-09T22:45:09Z"
     },
     "238c94ee6b838b625ca27cf8f1d186eaf04493c46cd9dca065ca598dc1dbc8b8": {
-        "seq": 1715932780388,
-        "record": "enr:-J64QHQIIx05L9AMRWFcyFu2idUXoDMzwmv5DMDDAunjR83kfjP_weF0XiX40D_dqAFQ7sd8wq2fpeyUbGP4wUvys0eGAY-FkFdkhGN0eGPHxoR1STAggIJpZIJ2NIJpcIRt-Ko_iXNlY3AyNTZrMaEDo732BNN4d3M5uhCCAGaAHodlTTQgFb8wKF5tqOIaLOGDdGNwgkuCg3VkcIJLgg",
-        "score": 28,
+        "seq": 1715932780390,
+        "record": "enr:-J64QIEv0UqOdKHhbAtjssnsPLrpW20ONnruAR0u8SCSGa7pf7T4upLFlRsN9WkVheBOv1yX2fzOwvQD2vhzyzFsgZuGAY-FkFdmhGN0eGPHxoR1STAggIJpZIJ2NIJpcIRt-Ko_iXNlY3AyNTZrMaEDo732BNN4d3M5uhCCAGaAHodlTTQgFb8wKF5tqOIaLOGDdGNwgkuCg3VkcIJLgg",
+        "score": 31,
         "firstResponse": "2024-05-24T22:26:02Z",
-        "lastResponse": "2024-06-08T22:45:15Z",
-        "lastCheck": "2024-06-08T22:45:15Z"
+        "lastResponse": "2024-06-09T22:45:12Z",
+        "lastCheck": "2024-06-09T22:45:12Z"
+    },
+    "24b799a899c53730d15f59fc9c7a84c2c16ba9357d83bf2a8c10b9e8c9cdb942": {
+        "seq": 1667621805766,
+        "record": "enr:-J64QOYorxBL6abRgJabZmxqw72mc7iEVZyUN7Yd2SNnt8RGa2bRXrLBGAEtzOrh8lcHuO4ioAgYGCHmmnjLvyke4CeGAYRGAV7GhGN0eGPHxoR1STAggIJpZIJ2NIJpcISLxCDAiXNlY3AyNTZrMaEDIvs5ooYThcxvGdKe0craTEOeDuzED150qi80RrVJmUeDdGNwgp3Ug3VkcIKd1A",
+        "score": 1,
+        "firstResponse": "2024-06-09T22:46:20Z",
+        "lastResponse": "2024-06-09T22:46:20Z",
+        "lastCheck": "2024-06-09T22:46:20Z"
     },
     "91b43731cb78539b8bcefbca39479a0497c59cfd17ca67ecf3d406969bc90b18": {
-        "seq": 21910,
-        "record": "enr:-Jq4QATDLPZHtiWacGhDNKO97qxvPHNjqNAdDaIGwGM6ZynWLtcJXmJXNgWcPfvVT40w9HiIy3_UITb6vGyzDTWc2v2CVZaEY3R4Y8fGhHVJMCCAgmlkgnY0gmlwhCdqq5SJc2VjcDI1NmsxoQKvLAFD7sXLc_I54MYZUfJzNJvnYDUMWZcJ-dkPqBeNa4N0Y3CCsTeDdWRwgrE3",
-        "score": 54,
+        "seq": 21912,
+        "record": "enr:-Jq4QGzaRZ4oGNtjZ9qj21C45Xm0MSo38QGcSSe1Zi0SfVfSEXcMD9V6PCm3Q7JKrflJ77pKPoR2R_qw8CnGQQYDsUWCVZiEY3R4Y8fGhHVJMCCAgmlkgnY0gmlwhCdqq5SJc2VjcDI1NmsxoQKvLAFD7sXLc_I54MYZUfJzNJvnYDUMWZcJ-dkPqBeNa4N0Y3CCsTeDdWRwgrE3",
+        "score": 57,
         "firstResponse": "2024-05-16T22:25:16Z",
-        "lastResponse": "2024-06-08T22:45:17Z",
-        "lastCheck": "2024-06-08T22:45:17Z"
+        "lastResponse": "2024-06-09T22:45:15Z",
+        "lastCheck": "2024-06-09T22:45:15Z"
     },
     "f9f2278feb4c107786eecb2da0b53b421076b2bd688f23cfbe30ef16131e7bee": {
-        "seq": 1663680564516,
-        "record": "enr:-J64QKyyneDq09Rav_i3A5idIGaPyx8mHUabmhuG8sL_RagoXn-_MunIs6xcpOFjGbyJXTWuBDSo3DIjpA515Ov3iKCGAYNbFs0khGN0eGPHxoR1STAggIJpZIJ2NIJpcIQ27t6BiXNlY3AyNTZrMaEDlT2Zh1P-k9snhLKppX9LmMf8kw0RfuAmf1KVn51NX62DdGNwgp3Ug3VkcIKd1A",
-        "score": 31,
+        "seq": 1663680564520,
+        "record": "enr:-J64QMfVyNFZF4Sp8dT-I9InPS23ilyQ1UfiYJcZ_CpbumW3SP1M9thKlGgbaSkXQIIQcUSxsBW4dGD40Bb-JU8bvGeGAYNbFs0ohGN0eGPHxoR1STAggIJpZIJ2NIJpcIQ27t6BiXNlY3AyNTZrMaEDlT2Zh1P-k9snhLKppX9LmMf8kw0RfuAmf1KVn51NX62DdGNwgp3Ug3VkcIKd1A",
+        "score": 34,
         "firstResponse": "2024-05-17T22:25:49Z",
-        "lastResponse": "2024-06-08T22:45:17Z",
-        "lastCheck": "2024-06-08T22:45:17Z"
+        "lastResponse": "2024-06-09T22:45:19Z",
+        "lastCheck": "2024-06-09T22:45:19Z"
     }
 }
