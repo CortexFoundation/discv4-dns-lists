@@ -4,8 +4,8 @@
         "record": "enr:-Ka4QM8KduSm-Gy0Tl1kyFksmEayVTdDgVbHgazDOCdvwL8acOMGtHK40_ccdaWEyIvqysCpMJGTc2Ym0ibMO-feSz6GAZ67M8qDhGN0eGPHxoR1STAggIJpZIJ2NIJpcIQDJ7NniXNlY3AyNTZrMaEDvJfXJyzD9cjkcrykAD8Soe89WQFeCERIx4LhkAK-Jt-DdGNwgp3Ug3VkcIIsv4R1ZHA2gp3U",
         "score": 3,
         "firstResponse": "2026-10-16T22:25:30Z",
-        "lastResponse": "2026-10-24T22:45:21Z",
-        "lastCheck": "2026-10-24T22:45:21Z"
+        "lastResponse": "2026-10-25T22:54:52Z",
+        "lastCheck": "2026-10-25T22:54:52Z"
     },
     "5478459b24d7a370605088caf13bb97708a811966ba9d9f6c001246252611d99": {
         "seq": 0,
@@ -15,19 +15,19 @@
         "lastCheck": "0001-01-01T00:00:00Z"
     },
     "5a21fcfc6869a006e7b019eacafe67fd45f196ad1ca69c2fe26cd32126fcf500": {
-        "seq": 1781257191864,
-        "record": "enr:-Ka4QMcIefRFoqqLwjSHXgBycCmyMdIhwUv38Dd8ibIW2A8pdt6xewBXUvmi5zGzEB-j2545yU-cap-f4KMMIwZpqwaGAZ67M8G4hGN0eGPHxoR1STAggIJpZIJ2NIJpcIQryN_fiXNlY3AyNTZrMaEDNyaCuxs9sOvR_EloljSVFG3A-vrAIQGtb3xcbIKx2TeDdGNwgp3Ug3VkcIKBwYR1ZHA2gp3U",
-        "score": 8,
+        "seq": 1781257191868,
+        "record": "enr:-J64QCcO9CZlS1zMB4MYdc0ltlfcK7w8XN9BXVWqQDxsfeTzQYNRx_czVryAklR2IYyrjkeAB5DXVIrMyOjkAVvBfP6GAZ67M8G8hGN0eGPHxoR1STAggIJpZIJ2NIJpcIQryN_fiXNlY3AyNTZrMaEDNyaCuxs9sOvR_EloljSVFG3A-vrAIQGtb3xcbIKx2TeDdGNwgp3Ug3VkcIKd1A",
+        "score": 6,
         "firstResponse": "2026-09-17T22:31:07Z",
-        "lastResponse": "2026-10-24T22:45:25Z",
-        "lastCheck": "2026-10-24T22:45:25Z"
+        "lastResponse": "2026-10-25T22:54:52Z",
+        "lastCheck": "2026-10-25T22:54:52Z"
     },
     "9e6672838c56a1a37c822828727d696aafbca12441e317032f2267bc4dd6d6e8": {
         "seq": 1726725623432,
         "record": "enr:-J64QPwf6i0ojXF8VsJP1fiIXHibyHdOT0yai3d1KzNh524dKoRive8XuY3s0Z5aCFbIMy2lw4trCFiXsGpr22Z8cV-GAZII3g6IhGN0eGPHxoR1STAggIJpZIJ2NIJpcIQDJQOgiXNlY3AyNTZrMaEDfFeAGRBEwgJ2SaORrtdPIQKc_CUJp4T5UOyciDKh-ayDdGNwgp3Ug3VkcIKd1A",
-        "score": 7,
+        "score": 5,
         "firstResponse": "2026-09-17T22:37:15Z",
-        "lastResponse": "2026-10-24T22:45:25Z",
-        "lastCheck": "2026-10-24T22:45:25Z"
+        "lastResponse": "2026-10-25T22:54:54Z",
+        "lastCheck": "2026-10-25T22:54:54Z"
     }
 }
