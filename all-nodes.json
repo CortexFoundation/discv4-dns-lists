@@ -2,10 +2,10 @@
     "454b9336f459e676cd97667a989161058ff8b875c28b39ab930f03e72e5fc1ae": {
         "seq": 1781257194120,
         "record": "enr:-J64QD-l3vizeAAeKKLNXEEME2XWL3XCNBDtIRZjk3hX72FDMXwJkoRrpElz8LzTwXCy4MtsD4tYKsiESk-dnvyMcIaGAZ67M8qIhGN0eGPHxoR1STAggIJpZIJ2NIJpcIQDJ7NniXNlY3AyNTZrMaEDvJfXJyzD9cjkcrykAD8Soe89WQFeCERIx4LhkAK-Jt-DdGNwgp3Ug3VkcIKd1A",
-        "score": 2,
-        "firstResponse": "2026-10-28T22:45:12Z",
-        "lastResponse": "2026-10-28T22:55:14Z",
-        "lastCheck": "2026-10-28T22:55:14Z"
+        "score": 1,
+        "firstResponse": "2026-10-29T22:52:57Z",
+        "lastResponse": "2026-10-29T22:52:57Z",
+        "lastCheck": "2026-10-29T22:52:57Z"
     },
     "5478459b24d7a370605088caf13bb97708a811966ba9d9f6c001246252611d99": {
         "seq": 0,
@@ -15,19 +15,19 @@
         "lastCheck": "0001-01-01T00:00:00Z"
     },
     "5a21fcfc6869a006e7b019eacafe67fd45f196ad1ca69c2fe26cd32126fcf500": {
-        "seq": 1781257191868,
-        "record": "enr:-J64QCcO9CZlS1zMB4MYdc0ltlfcK7w8XN9BXVWqQDxsfeTzQYNRx_czVryAklR2IYyrjkeAB5DXVIrMyOjkAVvBfP6GAZ67M8G8hGN0eGPHxoR1STAggIJpZIJ2NIJpcIQryN_fiXNlY3AyNTZrMaEDNyaCuxs9sOvR_EloljSVFG3A-vrAIQGtb3xcbIKx2TeDdGNwgp3Ug3VkcIKd1A",
-        "score": 3,
-        "firstResponse": "2026-09-17T22:31:07Z",
-        "lastResponse": "2026-10-28T22:49:37Z",
-        "lastCheck": "2026-10-28T22:49:37Z"
+        "seq": 1781257191873,
+        "record": "enr:-Ka4QJOy6RImMO7wNgX_VonuiFE-sdKhbEd18Yyi_p1vatjuUciu-SAloXBzGWvr6E-eWD9o4oEpyjI5AHVhhueCwn6GAZ67M8HBhGN0eGPHxoR1STAggIJpZIJ2NIJpcIQryN_fiXNlY3AyNTZrMaEDNyaCuxs9sOvR_EloljSVFG3A-vrAIQGtb3xcbIKx2TeDdGNwgp3Ug3VkcIIVfIR1ZHA2gp3U",
+        "score": 1,
+        "firstResponse": "2026-10-29T22:52:54Z",
+        "lastResponse": "2026-10-29T22:52:54Z",
+        "lastCheck": "2026-10-29T22:52:54Z"
     },
     "9e6672838c56a1a37c822828727d696aafbca12441e317032f2267bc4dd6d6e8": {
         "seq": 1726725623432,
         "record": "enr:-J64QPwf6i0ojXF8VsJP1fiIXHibyHdOT0yai3d1KzNh524dKoRive8XuY3s0Z5aCFbIMy2lw4trCFiXsGpr22Z8cV-GAZII3g6IhGN0eGPHxoR1STAggIJpZIJ2NIJpcIQDJQOgiXNlY3AyNTZrMaEDfFeAGRBEwgJ2SaORrtdPIQKc_CUJp4T5UOyciDKh-ayDdGNwgp3Ug3VkcIKd1A",
-        "score": 2,
-        "firstResponse": "2026-09-17T22:37:15Z",
-        "lastResponse": "2026-10-28T22:49:42Z",
-        "lastCheck": "2026-10-28T22:49:42Z"
+        "score": 1,
+        "firstResponse": "2026-10-29T22:53:01Z",
+        "lastResponse": "2026-10-29T22:53:01Z",
+        "lastCheck": "2026-10-29T22:53:01Z"
     }
 }
